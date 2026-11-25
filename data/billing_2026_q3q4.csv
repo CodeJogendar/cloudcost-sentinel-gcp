@@ -1,0 +1,553 @@
+usage_date,service,project_id,region,usage_amount,usage_unit,cost_usd
+2026-08-25,Compute Engine,prod-app,asia-south1,1245.0,vCPU-hours,42.33
+2026-08-25,BigQuery,analytics-prod,asia-south1,3.09,TiB-scanned,19.33
+2026-08-25,Cloud Storage,data-lake,asia-south1,587.0,GiB-months,11.74
+2026-08-25,Cloud SQL,prod-app,asia-south1,659.32,vCPU-hours,27.23
+2026-08-25,Dataflow,streaming-prod,asia-south1,271.61,vCPU-hours,15.21
+2026-08-25,Networking,prod-app,global,81.5,GiB-egress,9.78
+2026-08-26,Compute Engine,prod-app,asia-south1,1346.18,vCPU-hours,45.77
+2026-08-26,BigQuery,analytics-prod,asia-south1,3.03,TiB-scanned,18.95
+2026-08-26,Cloud Storage,data-lake,asia-south1,578.5,GiB-months,11.57
+2026-08-26,Cloud SQL,prod-app,asia-south1,640.68,vCPU-hours,26.46
+2026-08-26,Dataflow,streaming-prod,asia-south1,264.82,vCPU-hours,14.83
+2026-08-26,Networking,prod-app,global,77.58,GiB-egress,9.31
+2026-08-27,Compute Engine,prod-app,asia-south1,1312.94,vCPU-hours,44.64
+2026-08-27,BigQuery,analytics-prod,asia-south1,2.87,TiB-scanned,17.96
+2026-08-27,Cloud Storage,data-lake,asia-south1,599.0,GiB-months,11.98
+2026-08-27,Cloud SQL,prod-app,asia-south1,641.16,vCPU-hours,26.48
+2026-08-27,Dataflow,streaming-prod,asia-south1,272.86,vCPU-hours,15.28
+2026-08-27,Networking,prod-app,global,74.58,GiB-egress,8.95
+2026-08-28,Compute Engine,prod-app,asia-south1,1378.53,vCPU-hours,46.87
+2026-08-28,BigQuery,analytics-prod,asia-south1,3.12,TiB-scanned,19.5
+2026-08-28,Cloud Storage,data-lake,asia-south1,605.5,GiB-months,12.11
+2026-08-28,Cloud SQL,prod-app,asia-south1,672.15,vCPU-hours,27.76
+2026-08-28,Dataflow,streaming-prod,asia-south1,266.25,vCPU-hours,14.91
+2026-08-28,Networking,prod-app,global,77.33,GiB-egress,9.28
+2026-08-29,Compute Engine,prod-app,asia-south1,1115.88,vCPU-hours,37.94
+2026-08-29,BigQuery,analytics-prod,asia-south1,2.48,TiB-scanned,15.51
+2026-08-29,Cloud Storage,data-lake,asia-south1,524.0,GiB-months,10.48
+2026-08-29,Cloud SQL,prod-app,asia-south1,559.81,vCPU-hours,23.12
+2026-08-29,Dataflow,streaming-prod,asia-south1,231.96,vCPU-hours,12.99
+2026-08-29,Networking,prod-app,global,70.33,GiB-egress,8.44
+2026-08-30,Compute Engine,prod-app,asia-south1,1067.06,vCPU-hours,36.28
+2026-08-30,BigQuery,analytics-prod,asia-south1,2.74,TiB-scanned,17.12
+2026-08-30,Cloud Storage,data-lake,asia-south1,494.5,GiB-months,9.89
+2026-08-30,Cloud SQL,prod-app,asia-south1,572.88,vCPU-hours,23.66
+2026-08-30,Dataflow,streaming-prod,asia-south1,237.68,vCPU-hours,13.31
+2026-08-30,Networking,prod-app,global,67.75,GiB-egress,8.13
+2026-08-31,Compute Engine,prod-app,asia-south1,1255.88,vCPU-hours,42.7
+2026-08-31,BigQuery,analytics-prod,asia-south1,2.87,TiB-scanned,17.96
+2026-08-31,Cloud Storage,data-lake,asia-south1,606.5,GiB-months,12.13
+2026-08-31,Cloud SQL,prod-app,asia-south1,643.83,vCPU-hours,26.59
+2026-08-31,Dataflow,streaming-prod,asia-south1,292.5,vCPU-hours,16.38
+2026-08-31,Networking,prod-app,global,76.42,GiB-egress,9.17
+2026-09-01,Compute Engine,prod-app,asia-south1,1379.71,vCPU-hours,46.91
+2026-09-01,BigQuery,analytics-prod,asia-south1,3.19,TiB-scanned,19.93
+2026-09-01,Cloud Storage,data-lake,asia-south1,599.5,GiB-months,11.99
+2026-09-01,Cloud SQL,prod-app,asia-south1,686.68,vCPU-hours,28.36
+2026-09-01,Dataflow,streaming-prod,asia-south1,285.89,vCPU-hours,16.01
+2026-09-01,Networking,prod-app,global,81.5,GiB-egress,9.78
+2026-09-02,Compute Engine,prod-app,asia-south1,1248.24,vCPU-hours,42.44
+2026-09-02,BigQuery,analytics-prod,asia-south1,3.04,TiB-scanned,19.0
+2026-09-02,Cloud Storage,data-lake,asia-south1,605.0,GiB-months,12.1
+2026-09-02,Cloud SQL,prod-app,asia-south1,642.37,vCPU-hours,26.53
+2026-09-02,Dataflow,streaming-prod,asia-south1,297.86,vCPU-hours,16.68
+2026-09-02,Networking,prod-app,global,83.08,GiB-egress,9.97
+2026-09-03,Compute Engine,prod-app,asia-south1,1294.41,vCPU-hours,44.01
+2026-09-03,BigQuery,analytics-prod,asia-south1,3.0,TiB-scanned,18.76
+2026-09-03,Cloud Storage,data-lake,asia-south1,579.5,GiB-months,11.59
+2026-09-03,Cloud SQL,prod-app,asia-south1,657.87,vCPU-hours,27.17
+2026-09-03,Dataflow,streaming-prod,asia-south1,300.71,vCPU-hours,16.84
+2026-09-03,Networking,prod-app,global,78.42,GiB-egress,9.41
+2026-09-04,Compute Engine,prod-app,asia-south1,1235.59,vCPU-hours,42.01
+2026-09-04,BigQuery,analytics-prod,asia-south1,2.91,TiB-scanned,18.16
+2026-09-04,Cloud Storage,data-lake,asia-south1,598.5,GiB-months,11.97
+2026-09-04,Cloud SQL,prod-app,asia-south1,707.02,vCPU-hours,29.2
+2026-09-04,Dataflow,streaming-prod,asia-south1,283.93,vCPU-hours,15.9
+2026-09-04,Networking,prod-app,global,79.42,GiB-egress,9.53
+2026-09-05,Compute Engine,prod-app,asia-south1,1130.88,vCPU-hours,38.45
+2026-09-05,BigQuery,analytics-prod,asia-south1,2.7,TiB-scanned,16.87
+2026-09-05,Cloud Storage,data-lake,asia-south1,484.0,GiB-months,9.68
+2026-09-05,Cloud SQL,prod-app,asia-south1,580.39,vCPU-hours,23.97
+2026-09-05,Dataflow,streaming-prod,asia-south1,245.36,vCPU-hours,13.74
+2026-09-05,Networking,prod-app,global,69.25,GiB-egress,8.31
+2026-09-06,Compute Engine,prod-app,asia-south1,1082.06,vCPU-hours,36.79
+2026-09-06,BigQuery,analytics-prod,asia-south1,2.52,TiB-scanned,15.75
+2026-09-06,Cloud Storage,data-lake,asia-south1,492.0,GiB-months,9.84
+2026-09-06,Cloud SQL,prod-app,asia-south1,602.66,vCPU-hours,24.89
+2026-09-06,Dataflow,streaming-prod,asia-south1,239.46,vCPU-hours,13.41
+2026-09-06,Networking,prod-app,global,69.08,GiB-egress,8.29
+2026-09-07,Compute Engine,prod-app,asia-south1,1283.53,vCPU-hours,43.64
+2026-09-07,BigQuery,analytics-prod,asia-south1,2.92,TiB-scanned,18.23
+2026-09-07,Cloud Storage,data-lake,asia-south1,554.5,GiB-months,11.09
+2026-09-07,Cloud SQL,prod-app,asia-south1,694.92,vCPU-hours,28.7
+2026-09-07,Dataflow,streaming-prod,asia-south1,294.46,vCPU-hours,16.49
+2026-09-07,Networking,prod-app,global,78.58,GiB-egress,9.43
+2026-09-08,Compute Engine,prod-app,asia-south1,1344.12,vCPU-hours,45.7
+2026-09-08,BigQuery,analytics-prod,asia-south1,3.13,TiB-scanned,19.57
+2026-09-08,Cloud Storage,data-lake,asia-south1,613.5,GiB-months,12.27
+2026-09-08,Cloud SQL,prod-app,asia-south1,707.02,vCPU-hours,29.2
+2026-09-08,Dataflow,streaming-prod,asia-south1,281.96,vCPU-hours,15.79
+2026-09-08,Networking,prod-app,global,84.5,GiB-egress,10.14
+2026-09-09,Compute Engine,prod-app,asia-south1,1389.41,vCPU-hours,47.24
+2026-09-09,BigQuery,analytics-prod,asia-south1,3.1,TiB-scanned,19.39
+2026-09-09,Cloud Storage,data-lake,asia-south1,613.0,GiB-months,12.26
+2026-09-09,Cloud SQL,prod-app,asia-south1,670.22,vCPU-hours,27.68
+2026-09-09,Dataflow,streaming-prod,asia-south1,281.25,vCPU-hours,15.75
+2026-09-09,Networking,prod-app,global,77.5,GiB-egress,9.3
+2026-09-10,Compute Engine,prod-app,asia-south1,1377.35,vCPU-hours,46.83
+2026-09-10,BigQuery,analytics-prod,asia-south1,2.95,TiB-scanned,18.42
+2026-09-10,Cloud Storage,data-lake,asia-south1,556.5,GiB-months,11.13
+2026-09-10,Cloud SQL,prod-app,asia-south1,696.13,vCPU-hours,28.75
+2026-09-10,Dataflow,streaming-prod,asia-south1,295.18,vCPU-hours,16.53
+2026-09-10,Networking,prod-app,global,79.83,GiB-egress,9.58
+2026-09-11,Compute Engine,prod-app,asia-south1,1372.35,vCPU-hours,46.66
+2026-09-11,BigQuery,analytics-prod,asia-south1,2.91,TiB-scanned,18.19
+2026-09-11,Cloud Storage,data-lake,asia-south1,570.5,GiB-months,11.41
+2026-09-11,Cloud SQL,prod-app,asia-south1,655.21,vCPU-hours,27.06
+2026-09-11,Dataflow,streaming-prod,asia-south1,283.21,vCPU-hours,15.86
+2026-09-11,Networking,prod-app,global,76.92,GiB-egress,9.23
+2026-09-12,Compute Engine,prod-app,asia-south1,1073.24,vCPU-hours,36.49
+2026-09-12,BigQuery,analytics-prod,asia-south1,2.59,TiB-scanned,16.17
+2026-09-12,Cloud Storage,data-lake,asia-south1,528.0,GiB-months,10.56
+2026-09-12,Cloud SQL,prod-app,asia-south1,610.17,vCPU-hours,25.2
+2026-09-12,Dataflow,streaming-prod,asia-south1,252.68,vCPU-hours,14.15
+2026-09-12,Networking,prod-app,global,68.5,GiB-egress,8.22
+2026-09-13,Compute Engine,prod-app,asia-south1,1099.12,vCPU-hours,37.37
+2026-09-13,BigQuery,analytics-prod,asia-south1,2.79,TiB-scanned,17.42
+2026-09-13,Cloud Storage,data-lake,asia-south1,506.0,GiB-months,10.12
+2026-09-13,Cloud SQL,prod-app,asia-south1,593.22,vCPU-hours,24.5
+2026-09-13,Dataflow,streaming-prod,asia-south1,231.79,vCPU-hours,12.98
+2026-09-13,Networking,prod-app,global,66.42,GiB-egress,7.97
+2026-09-14,Compute Engine,prod-app,asia-south1,1376.76,vCPU-hours,46.81
+2026-09-14,BigQuery,analytics-prod,asia-south1,3.19,TiB-scanned,19.96
+2026-09-14,Cloud Storage,data-lake,asia-south1,616.0,GiB-months,12.32
+2026-09-14,Cloud SQL,prod-app,asia-south1,682.32,vCPU-hours,28.18
+2026-09-14,Dataflow,streaming-prod,asia-south1,284.29,vCPU-hours,15.92
+2026-09-14,Networking,prod-app,global,81.08,GiB-egress,9.73
+2026-09-15,Compute Engine,prod-app,asia-south1,1379.71,vCPU-hours,46.91
+2026-09-15,BigQuery,analytics-prod,asia-south1,3.02,TiB-scanned,18.85
+2026-09-15,Cloud Storage,data-lake,asia-south1,592.0,GiB-months,11.84
+2026-09-15,Cloud SQL,prod-app,asia-south1,656.66,vCPU-hours,27.12
+2026-09-15,Dataflow,streaming-prod,asia-south1,296.43,vCPU-hours,16.6
+2026-09-15,Networking,prod-app,global,75.67,GiB-egress,9.08
+2026-09-16,Compute Engine,prod-app,asia-south1,1355.0,vCPU-hours,46.07
+2026-09-16,BigQuery,analytics-prod,asia-south1,3.26,TiB-scanned,20.37
+2026-09-16,Cloud Storage,data-lake,asia-south1,556.5,GiB-months,11.13
+2026-09-16,Cloud SQL,prod-app,asia-south1,683.05,vCPU-hours,28.21
+2026-09-16,Dataflow,streaming-prod,asia-south1,292.32,vCPU-hours,16.37
+2026-09-16,Networking,prod-app,global,83.92,GiB-egress,10.07
+2026-09-17,Compute Engine,prod-app,asia-south1,1340.29,vCPU-hours,45.57
+2026-09-17,BigQuery,analytics-prod,asia-south1,3.0,TiB-scanned,18.77
+2026-09-17,Cloud Storage,data-lake,asia-south1,584.0,GiB-months,11.68
+2026-09-17,Cloud SQL,prod-app,asia-south1,713.56,vCPU-hours,29.47
+2026-09-17,Dataflow,streaming-prod,asia-south1,301.79,vCPU-hours,16.9
+2026-09-17,Networking,prod-app,global,77.0,GiB-egress,9.24
+2026-09-18,Compute Engine,prod-app,asia-south1,1263.53,vCPU-hours,42.96
+2026-09-18,BigQuery,analytics-prod,asia-south1,2.95,TiB-scanned,18.41
+2026-09-18,Cloud Storage,data-lake,asia-south1,557.5,GiB-months,11.15
+2026-09-18,Cloud SQL,prod-app,asia-south1,672.64,vCPU-hours,27.78
+2026-09-18,Dataflow,streaming-prod,asia-south1,275.54,vCPU-hours,15.43
+2026-09-18,Networking,prod-app,global,84.17,GiB-egress,10.1
+2026-09-19,Compute Engine,prod-app,asia-south1,1160.88,vCPU-hours,39.47
+2026-09-19,BigQuery,analytics-prod,asia-south1,2.54,TiB-scanned,15.86
+2026-09-19,Cloud Storage,data-lake,asia-south1,509.5,GiB-months,10.19
+2026-09-19,Cloud SQL,prod-app,asia-south1,568.52,vCPU-hours,23.48
+2026-09-19,Dataflow,streaming-prod,asia-south1,246.96,vCPU-hours,13.83
+2026-09-19,Networking,prod-app,global,66.83,GiB-egress,8.02
+2026-09-20,Compute Engine,prod-app,asia-south1,1095.0,vCPU-hours,37.23
+2026-09-20,BigQuery,analytics-prod,asia-south1,2.56,TiB-scanned,15.99
+2026-09-20,Cloud Storage,data-lake,asia-south1,500.5,GiB-months,10.01
+2026-09-20,Cloud SQL,prod-app,asia-south1,595.88,vCPU-hours,24.61
+2026-09-20,Dataflow,streaming-prod,asia-south1,248.75,vCPU-hours,13.93
+2026-09-20,Networking,prod-app,global,65.5,GiB-egress,7.86
+2026-09-21,Compute Engine,prod-app,asia-south1,1365.88,vCPU-hours,46.44
+2026-09-21,BigQuery,analytics-prod,asia-south1,3.24,TiB-scanned,20.28
+2026-09-21,Cloud Storage,data-lake,asia-south1,612.5,GiB-months,12.25
+2026-09-21,Cloud SQL,prod-app,asia-south1,702.66,vCPU-hours,29.02
+2026-09-21,Dataflow,streaming-prod,asia-south1,271.79,vCPU-hours,15.22
+2026-09-21,Networking,prod-app,global,80.5,GiB-egress,9.66
+2026-09-22,Compute Engine,prod-app,asia-south1,1263.53,vCPU-hours,42.96
+2026-09-22,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.04
+2026-09-22,Cloud Storage,data-lake,asia-south1,570.5,GiB-months,11.41
+2026-09-22,Cloud SQL,prod-app,asia-south1,696.85,vCPU-hours,28.78
+2026-09-22,Dataflow,streaming-prod,asia-south1,280.54,vCPU-hours,15.71
+2026-09-22,Networking,prod-app,global,82.83,GiB-egress,9.94
+2026-09-23,Compute Engine,prod-app,asia-south1,1304.71,vCPU-hours,44.36
+2026-09-23,BigQuery,analytics-prod,asia-south1,2.94,TiB-scanned,18.38
+2026-09-23,Cloud Storage,data-lake,asia-south1,586.5,GiB-months,11.73
+2026-09-23,Cloud SQL,prod-app,asia-south1,664.65,vCPU-hours,27.45
+2026-09-23,Dataflow,streaming-prod,asia-south1,303.39,vCPU-hours,16.99
+2026-09-23,Networking,prod-app,global,79.0,GiB-egress,9.48
+2026-09-24,Compute Engine,prod-app,asia-south1,1336.47,vCPU-hours,45.44
+2026-09-24,BigQuery,analytics-prod,asia-south1,3.13,TiB-scanned,19.58
+2026-09-24,Cloud Storage,data-lake,asia-south1,627.0,GiB-months,12.54
+2026-09-24,Cloud SQL,prod-app,asia-south1,647.94,vCPU-hours,26.76
+2026-09-24,Dataflow,streaming-prod,asia-south1,293.21,vCPU-hours,16.42
+2026-09-24,Networking,prod-app,global,81.17,GiB-egress,9.74
+2026-09-25,Compute Engine,prod-app,asia-south1,1375.0,vCPU-hours,46.75
+2026-09-25,BigQuery,analytics-prod,asia-south1,3.29,TiB-scanned,20.58
+2026-09-25,Cloud Storage,data-lake,asia-south1,582.0,GiB-months,11.64
+2026-09-25,Cloud SQL,prod-app,asia-south1,697.82,vCPU-hours,28.82
+2026-09-25,Dataflow,streaming-prod,asia-south1,290.89,vCPU-hours,16.29
+2026-09-25,Networking,prod-app,global,81.75,GiB-egress,9.81
+2026-09-26,Compute Engine,prod-app,asia-south1,1087.35,vCPU-hours,36.97
+2026-09-26,BigQuery,analytics-prod,asia-south1,2.78,TiB-scanned,17.35
+2026-09-26,Cloud Storage,data-lake,asia-south1,540.0,GiB-months,10.8
+2026-09-26,Cloud SQL,prod-app,asia-south1,574.58,vCPU-hours,23.73
+2026-09-26,Dataflow,streaming-prod,asia-south1,243.39,vCPU-hours,13.63
+2026-09-26,Networking,prod-app,global,73.75,GiB-egress,8.85
+2026-09-27,Compute Engine,prod-app,asia-south1,1094.41,vCPU-hours,37.21
+2026-09-27,BigQuery,analytics-prod,asia-south1,2.54,TiB-scanned,15.88
+2026-09-27,Cloud Storage,data-lake,asia-south1,485.0,GiB-months,9.7
+2026-09-27,Cloud SQL,prod-app,asia-south1,607.26,vCPU-hours,25.08
+2026-09-27,Dataflow,streaming-prod,asia-south1,256.79,vCPU-hours,14.38
+2026-09-27,Networking,prod-app,global,69.33,GiB-egress,8.32
+2026-09-28,Compute Engine,prod-app,asia-south1,1360.59,vCPU-hours,46.26
+2026-09-28,BigQuery,analytics-prod,asia-south1,2.95,TiB-scanned,18.42
+2026-09-28,Cloud Storage,data-lake,asia-south1,607.5,GiB-months,12.15
+2026-09-28,Cloud SQL,prod-app,asia-south1,678.69,vCPU-hours,28.03
+2026-09-28,Dataflow,streaming-prod,asia-south1,291.43,vCPU-hours,16.32
+2026-09-28,Networking,prod-app,global,80.33,GiB-egress,9.64
+2026-09-29,Compute Engine,prod-app,asia-south1,1326.47,vCPU-hours,45.1
+2026-09-29,BigQuery,analytics-prod,asia-south1,3.03,TiB-scanned,18.92
+2026-09-29,Cloud Storage,data-lake,asia-south1,565.5,GiB-months,11.31
+2026-09-29,Cloud SQL,prod-app,asia-south1,678.69,vCPU-hours,28.03
+2026-09-29,Dataflow,streaming-prod,asia-south1,282.32,vCPU-hours,15.81
+2026-09-29,Networking,prod-app,global,83.5,GiB-egress,10.02
+2026-09-30,Compute Engine,prod-app,asia-south1,1395.0,vCPU-hours,47.43
+2026-09-30,BigQuery,analytics-prod,asia-south1,3.22,TiB-scanned,20.11
+2026-09-30,Cloud Storage,data-lake,asia-south1,595.0,GiB-months,11.9
+2026-09-30,Cloud SQL,prod-app,asia-south1,663.2,vCPU-hours,27.39
+2026-09-30,Dataflow,streaming-prod,asia-south1,287.32,vCPU-hours,16.09
+2026-09-30,Networking,prod-app,global,81.42,GiB-egress,9.77
+2026-10-01,Compute Engine,prod-app,asia-south1,1366.47,vCPU-hours,46.46
+2026-10-01,BigQuery,analytics-prod,asia-south1,3.31,TiB-scanned,20.69
+2026-10-01,Cloud Storage,data-lake,asia-south1,569.0,GiB-months,11.38
+2026-10-01,Cloud SQL,prod-app,asia-south1,683.78,vCPU-hours,28.24
+2026-10-01,Dataflow,streaming-prod,asia-south1,291.43,vCPU-hours,16.32
+2026-10-01,Networking,prod-app,global,83.83,GiB-egress,10.06
+2026-10-02,Compute Engine,prod-app,asia-south1,1409.41,vCPU-hours,47.92
+2026-10-02,BigQuery,analytics-prod,asia-south1,3.24,TiB-scanned,20.28
+2026-10-02,Cloud Storage,data-lake,asia-south1,608.5,GiB-months,12.17
+2026-10-02,Cloud SQL,prod-app,asia-south1,707.51,vCPU-hours,29.22
+2026-10-02,Dataflow,streaming-prod,asia-south1,297.86,vCPU-hours,16.68
+2026-10-02,Networking,prod-app,global,85.25,GiB-egress,10.23
+2026-10-03,Compute Engine,prod-app,asia-south1,1182.65,vCPU-hours,40.21
+2026-10-03,BigQuery,analytics-prod,asia-south1,2.75,TiB-scanned,17.2
+2026-10-03,Cloud Storage,data-lake,asia-south1,498.5,GiB-months,9.97
+2026-10-03,Cloud SQL,prod-app,asia-south1,618.16,vCPU-hours,25.53
+2026-10-03,Dataflow,streaming-prod,asia-south1,246.96,vCPU-hours,13.83
+2026-10-03,Networking,prod-app,global,71.08,GiB-egress,8.53
+2026-10-04,Compute Engine,prod-app,asia-south1,1201.18,vCPU-hours,40.84
+2026-10-04,BigQuery,analytics-prod,asia-south1,2.85,TiB-scanned,17.79
+2026-10-04,Cloud Storage,data-lake,asia-south1,545.0,GiB-months,10.9
+2026-10-04,Cloud SQL,prod-app,asia-south1,554.24,vCPU-hours,22.89
+2026-10-04,Dataflow,streaming-prod,asia-south1,245.0,vCPU-hours,13.72
+2026-10-04,Networking,prod-app,global,68.58,GiB-egress,8.23
+2026-10-05,Compute Engine,prod-app,asia-south1,6662.94,vCPU-hours,226.54
+2026-10-05,BigQuery,analytics-prod,asia-south1,3.01,TiB-scanned,18.84
+2026-10-05,Cloud Storage,data-lake,asia-south1,605.0,GiB-months,12.1
+2026-10-05,Cloud SQL,prod-app,asia-south1,653.51,vCPU-hours,26.99
+2026-10-05,Dataflow,streaming-prod,asia-south1,285.89,vCPU-hours,16.01
+2026-10-05,Networking,prod-app,global,86.33,GiB-egress,10.36
+2026-10-06,Compute Engine,prod-app,asia-south1,1390.88,vCPU-hours,47.29
+2026-10-06,BigQuery,analytics-prod,asia-south1,3.14,TiB-scanned,19.6
+2026-10-06,Cloud Storage,data-lake,asia-south1,573.5,GiB-months,11.47
+2026-10-06,Cloud SQL,prod-app,asia-south1,726.39,vCPU-hours,30.0
+2026-10-06,Dataflow,streaming-prod,asia-south1,300.18,vCPU-hours,16.81
+2026-10-06,Networking,prod-app,global,79.17,GiB-egress,9.5
+2026-10-07,Compute Engine,prod-app,asia-south1,1326.18,vCPU-hours,45.09
+2026-10-07,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.05
+2026-10-07,Cloud Storage,data-lake,asia-south1,615.5,GiB-months,12.31
+2026-10-07,Cloud SQL,prod-app,asia-south1,669.73,vCPU-hours,27.66
+2026-10-07,Dataflow,streaming-prod,asia-south1,309.29,vCPU-hours,17.32
+2026-10-07,Networking,prod-app,global,80.42,GiB-egress,9.65
+2026-10-08,Compute Engine,prod-app,asia-south1,1314.12,vCPU-hours,44.68
+2026-10-08,BigQuery,analytics-prod,asia-south1,3.29,TiB-scanned,20.55
+2026-10-08,Cloud Storage,data-lake,asia-south1,578.0,GiB-months,11.56
+2026-10-08,Cloud SQL,prod-app,asia-south1,705.08,vCPU-hours,29.12
+2026-10-08,Dataflow,streaming-prod,asia-south1,283.04,vCPU-hours,15.85
+2026-10-08,Networking,prod-app,global,83.17,GiB-egress,9.98
+2026-10-09,Compute Engine,prod-app,asia-south1,1319.12,vCPU-hours,44.85
+2026-10-09,BigQuery,analytics-prod,asia-south1,3.11,TiB-scanned,19.46
+2026-10-09,Cloud Storage,data-lake,asia-south1,635.5,GiB-months,12.71
+2026-10-09,Cloud SQL,prod-app,asia-south1,688.14,vCPU-hours,28.42
+2026-10-09,Dataflow,streaming-prod,asia-south1,291.61,vCPU-hours,16.33
+2026-10-09,Networking,prod-app,global,83.42,GiB-egress,10.01
+2026-10-10,Compute Engine,prod-app,asia-south1,1132.35,vCPU-hours,38.5
+2026-10-10,BigQuery,analytics-prod,asia-south1,2.6,TiB-scanned,16.28
+2026-10-10,Cloud Storage,data-lake,asia-south1,510.5,GiB-months,10.21
+2026-10-10,Cloud SQL,prod-app,asia-south1,576.51,vCPU-hours,23.81
+2026-10-10,Dataflow,streaming-prod,asia-south1,242.68,vCPU-hours,13.59
+2026-10-10,Networking,prod-app,global,74.5,GiB-egress,8.94
+2026-10-11,Compute Engine,prod-app,asia-south1,1099.12,vCPU-hours,37.37
+2026-10-11,BigQuery,analytics-prod,asia-south1,2.81,TiB-scanned,17.59
+2026-10-11,Cloud Storage,data-lake,asia-south1,545.5,GiB-months,10.91
+2026-10-11,Cloud SQL,prod-app,asia-south1,607.75,vCPU-hours,25.1
+2026-10-11,Dataflow,streaming-prod,asia-south1,237.86,vCPU-hours,13.32
+2026-10-11,Networking,prod-app,global,70.67,GiB-egress,8.48
+2026-10-12,Compute Engine,prod-app,asia-south1,1284.12,vCPU-hours,43.66
+2026-10-12,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.06
+2026-10-12,Cloud Storage,data-lake,asia-south1,620.0,GiB-months,12.4
+2026-10-12,Cloud SQL,prod-app,asia-south1,671.19,vCPU-hours,27.72
+2026-10-12,Dataflow,streaming-prod,asia-south1,277.32,vCPU-hours,15.53
+2026-10-12,Networking,prod-app,global,83.0,GiB-egress,9.96
+2026-10-13,Compute Engine,prod-app,asia-south1,1294.41,vCPU-hours,44.01
+2026-10-13,BigQuery,analytics-prod,asia-south1,3.1,TiB-scanned,19.37
+2026-10-13,Cloud Storage,data-lake,asia-south1,602.5,GiB-months,12.05
+2026-10-13,Cloud SQL,prod-app,asia-south1,726.15,vCPU-hours,29.99
+2026-10-13,Dataflow,streaming-prod,asia-south1,290.36,vCPU-hours,16.26
+2026-10-13,Networking,prod-app,global,79.0,GiB-egress,9.48
+2026-10-14,Compute Engine,prod-app,asia-south1,1409.71,vCPU-hours,47.93
+2026-10-14,BigQuery,analytics-prod,asia-south1,3.3,TiB-scanned,20.61
+2026-10-14,Cloud Storage,data-lake,asia-south1,608.5,GiB-months,12.17
+2026-10-14,Cloud SQL,prod-app,asia-south1,656.42,vCPU-hours,27.11
+2026-10-14,Dataflow,streaming-prod,asia-south1,284.29,vCPU-hours,15.92
+2026-10-14,Networking,prod-app,global,81.75,GiB-egress,9.81
+2026-10-15,Compute Engine,prod-app,asia-south1,1371.76,vCPU-hours,46.64
+2026-10-15,BigQuery,analytics-prod,asia-south1,3.07,TiB-scanned,19.21
+2026-10-15,Cloud Storage,data-lake,asia-south1,629.0,GiB-months,12.58
+2026-10-15,Cloud SQL,prod-app,asia-south1,723.24,vCPU-hours,29.87
+2026-10-15,Dataflow,streaming-prod,asia-south1,310.71,vCPU-hours,17.4
+2026-10-15,Networking,prod-app,global,86.58,GiB-egress,10.39
+2026-10-16,Compute Engine,prod-app,asia-south1,1285.59,vCPU-hours,43.71
+2026-10-16,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.08
+2026-10-16,Cloud Storage,data-lake,asia-south1,577.0,GiB-months,11.54
+2026-10-16,Cloud SQL,prod-app,asia-south1,728.81,vCPU-hours,30.1
+2026-10-16,Dataflow,streaming-prod,asia-south1,304.64,vCPU-hours,17.06
+2026-10-16,Networking,prod-app,global,85.42,GiB-egress,10.25
+2026-10-17,Compute Engine,prod-app,asia-south1,1126.76,vCPU-hours,38.31
+2026-10-17,BigQuery,analytics-prod,asia-south1,2.59,TiB-scanned,16.16
+2026-10-17,Cloud Storage,data-lake,asia-south1,541.0,GiB-months,10.82
+2026-10-17,Cloud SQL,prod-app,asia-south1,604.36,vCPU-hours,24.96
+2026-10-17,Dataflow,streaming-prod,asia-south1,257.5,vCPU-hours,14.42
+2026-10-17,Networking,prod-app,global,70.83,GiB-egress,8.5
+2026-10-18,Compute Engine,prod-app,asia-south1,1214.12,vCPU-hours,41.28
+2026-10-18,BigQuery,analytics-prod,asia-south1,2.68,TiB-scanned,16.74
+2026-10-18,Cloud Storage,data-lake,asia-south1,507.5,GiB-months,10.15
+2026-10-18,Cloud SQL,prod-app,asia-south1,586.68,vCPU-hours,24.23
+2026-10-18,Dataflow,streaming-prod,asia-south1,1487.5,vCPU-hours,83.3
+2026-10-18,Networking,prod-app,global,72.25,GiB-egress,8.67
+2026-10-19,Compute Engine,prod-app,asia-south1,1432.35,vCPU-hours,48.7
+2026-10-19,BigQuery,analytics-prod,asia-south1,3.03,TiB-scanned,18.91
+2026-10-19,Cloud Storage,data-lake,asia-south1,577.5,GiB-months,11.55
+2026-10-19,Cloud SQL,prod-app,asia-south1,698.31,vCPU-hours,28.84
+2026-10-19,Dataflow,streaming-prod,asia-south1,1515.36,vCPU-hours,84.86
+2026-10-19,Networking,prod-app,global,80.0,GiB-egress,9.6
+2026-10-20,Compute Engine,prod-app,asia-south1,1331.76,vCPU-hours,45.28
+2026-10-20,BigQuery,analytics-prod,asia-south1,3.02,TiB-scanned,18.9
+2026-10-20,Cloud Storage,data-lake,asia-south1,576.0,GiB-months,11.52
+2026-10-20,Cloud SQL,prod-app,asia-south1,697.58,vCPU-hours,28.81
+2026-10-20,Dataflow,streaming-prod,asia-south1,303.39,vCPU-hours,16.99
+2026-10-20,Networking,prod-app,global,84.67,GiB-egress,10.16
+2026-10-21,Compute Engine,prod-app,asia-south1,1314.71,vCPU-hours,44.7
+2026-10-21,BigQuery,analytics-prod,asia-south1,3.04,TiB-scanned,19.03
+2026-10-21,Cloud Storage,data-lake,asia-south1,642.0,GiB-months,12.84
+2026-10-21,Cloud SQL,prod-app,asia-south1,701.94,vCPU-hours,28.99
+2026-10-21,Dataflow,streaming-prod,asia-south1,293.93,vCPU-hours,16.46
+2026-10-21,Networking,prod-app,global,85.17,GiB-egress,10.22
+2026-10-22,Compute Engine,prod-app,asia-south1,1409.71,vCPU-hours,47.93
+2026-10-22,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.06
+2026-10-22,Cloud Storage,data-lake,asia-south1,580.0,GiB-months,11.6
+2026-10-22,Cloud SQL,prod-app,asia-south1,726.88,vCPU-hours,30.02
+2026-10-22,Dataflow,streaming-prod,asia-south1,287.32,vCPU-hours,16.09
+2026-10-22,Networking,prod-app,global,78.75,GiB-egress,9.45
+2026-10-23,Compute Engine,prod-app,asia-south1,1349.12,vCPU-hours,45.87
+2026-10-23,BigQuery,analytics-prod,asia-south1,3.21,TiB-scanned,20.09
+2026-10-23,Cloud Storage,data-lake,asia-south1,621.0,GiB-months,12.42
+2026-10-23,Cloud SQL,prod-app,asia-south1,672.64,vCPU-hours,27.78
+2026-10-23,Dataflow,streaming-prod,asia-south1,305.36,vCPU-hours,17.1
+2026-10-23,Networking,prod-app,global,83.33,GiB-egress,10.0
+2026-10-24,Compute Engine,prod-app,asia-south1,1130.59,vCPU-hours,38.44
+2026-10-24,BigQuery,analytics-prod,asia-south1,2.86,TiB-scanned,17.9
+2026-10-24,Cloud Storage,data-lake,asia-south1,544.0,GiB-months,10.88
+2026-10-24,Cloud SQL,prod-app,asia-south1,629.78,vCPU-hours,26.01
+2026-10-24,Dataflow,streaming-prod,asia-south1,261.07,vCPU-hours,14.62
+2026-10-24,Networking,prod-app,global,69.08,GiB-egress,8.29
+2026-10-25,Compute Engine,prod-app,asia-south1,1218.82,vCPU-hours,41.44
+2026-10-25,BigQuery,analytics-prod,asia-south1,2.88,TiB-scanned,18.02
+2026-10-25,Cloud Storage,data-lake,asia-south1,527.5,GiB-months,10.55
+2026-10-25,Cloud SQL,prod-app,asia-south1,630.51,vCPU-hours,26.04
+2026-10-25,Dataflow,streaming-prod,asia-south1,270.18,vCPU-hours,15.13
+2026-10-25,Networking,prod-app,global,70.67,GiB-egress,8.48
+2026-10-26,Compute Engine,prod-app,asia-south1,1450.59,vCPU-hours,49.32
+2026-10-26,BigQuery,analytics-prod,asia-south1,3.38,TiB-scanned,21.12
+2026-10-26,Cloud Storage,data-lake,asia-south1,635.0,GiB-months,12.7
+2026-10-26,Cloud SQL,prod-app,asia-south1,660.77,vCPU-hours,27.29
+2026-10-26,Dataflow,streaming-prod,asia-south1,293.39,vCPU-hours,16.43
+2026-10-26,Networking,prod-app,global,84.75,GiB-egress,10.17
+2026-10-27,Compute Engine,prod-app,asia-south1,1396.47,vCPU-hours,47.48
+2026-10-27,BigQuery,analytics-prod,asia-south1,3.31,TiB-scanned,20.71
+2026-10-27,Cloud Storage,data-lake,asia-south1,624.5,GiB-months,12.49
+2026-10-27,Cloud SQL,prod-app,asia-south1,674.09,vCPU-hours,27.84
+2026-10-27,Dataflow,streaming-prod,asia-south1,314.46,vCPU-hours,17.61
+2026-10-27,Networking,prod-app,global,84.08,GiB-egress,10.09
+2026-10-28,Compute Engine,prod-app,asia-south1,1443.24,vCPU-hours,49.07
+2026-10-28,BigQuery,analytics-prod,asia-south1,3.1,TiB-scanned,19.4
+2026-10-28,Cloud Storage,data-lake,asia-south1,651.0,GiB-months,13.02
+2026-10-28,Cloud SQL,prod-app,asia-south1,707.99,vCPU-hours,29.24
+2026-10-28,Dataflow,streaming-prod,asia-south1,309.11,vCPU-hours,17.31
+2026-10-28,Networking,prod-app,global,86.17,GiB-egress,10.34
+2026-10-29,Compute Engine,prod-app,asia-south1,1444.71,vCPU-hours,49.12
+2026-10-29,BigQuery,analytics-prod,asia-south1,3.17,TiB-scanned,19.8
+2026-10-29,Cloud Storage,data-lake,asia-south1,584.0,GiB-months,11.68
+2026-10-29,Cloud SQL,prod-app,asia-south1,696.13,vCPU-hours,28.75
+2026-10-29,Dataflow,streaming-prod,asia-south1,288.04,vCPU-hours,16.13
+2026-10-29,Networking,prod-app,global,84.25,GiB-egress,10.11
+2026-10-30,Compute Engine,prod-app,asia-south1,1435.0,vCPU-hours,48.79
+2026-10-30,BigQuery,analytics-prod,asia-south1,3.17,TiB-scanned,19.81
+2026-10-30,Cloud Storage,data-lake,asia-south1,588.5,GiB-months,11.77
+2026-10-30,Cloud SQL,prod-app,asia-south1,664.65,vCPU-hours,27.45
+2026-10-30,Dataflow,streaming-prod,asia-south1,296.96,vCPU-hours,16.63
+2026-10-30,Networking,prod-app,global,84.75,GiB-egress,10.17
+2026-10-31,Compute Engine,prod-app,asia-south1,1118.82,vCPU-hours,38.04
+2026-10-31,BigQuery,analytics-prod,asia-south1,2.82,TiB-scanned,17.63
+2026-10-31,Cloud Storage,data-lake,asia-south1,510.0,GiB-months,10.2
+2026-10-31,Cloud SQL,prod-app,asia-south1,576.03,vCPU-hours,23.79
+2026-10-31,Dataflow,streaming-prod,asia-south1,270.36,vCPU-hours,15.14
+2026-10-31,Networking,prod-app,global,72.25,GiB-egress,8.67
+2026-11-01,Compute Engine,prod-app,asia-south1,1243.53,vCPU-hours,42.28
+2026-11-01,BigQuery,analytics-prod,asia-south1,2.77,TiB-scanned,17.33
+2026-11-01,Cloud Storage,data-lake,asia-south1,504.5,GiB-months,10.09
+2026-11-01,Cloud SQL,prod-app,asia-south1,586.2,vCPU-hours,24.21
+2026-11-01,Dataflow,streaming-prod,asia-south1,255.18,vCPU-hours,14.29
+2026-11-01,Networking,prod-app,global,73.33,GiB-egress,8.8
+2026-11-02,Compute Engine,prod-app,asia-south1,1431.76,vCPU-hours,48.68
+2026-11-02,BigQuery,analytics-prod,asia-south1,3.33,TiB-scanned,20.81
+2026-11-02,Cloud Storage,data-lake,asia-south1,628.5,GiB-months,12.57
+2026-11-02,Cloud SQL,prod-app,asia-south1,685.71,vCPU-hours,28.32
+2026-11-02,Dataflow,streaming-prod,asia-south1,298.21,vCPU-hours,16.7
+2026-11-02,Networking,prod-app,global,373.25,GiB-egress,44.79
+2026-11-03,Compute Engine,prod-app,asia-south1,1386.18,vCPU-hours,47.13
+2026-11-03,BigQuery,analytics-prod,asia-south1,3.14,TiB-scanned,19.65
+2026-11-03,Cloud Storage,data-lake,asia-south1,620.5,GiB-months,12.41
+2026-11-03,Cloud SQL,prod-app,asia-south1,703.87,vCPU-hours,29.07
+2026-11-03,Dataflow,streaming-prod,asia-south1,284.11,vCPU-hours,15.91
+2026-11-03,Networking,prod-app,global,87.5,GiB-egress,10.5
+2026-11-04,Compute Engine,prod-app,asia-south1,1403.53,vCPU-hours,47.72
+2026-11-04,BigQuery,analytics-prod,asia-south1,3.36,TiB-scanned,20.98
+2026-11-04,Cloud Storage,data-lake,asia-south1,636.0,GiB-months,12.72
+2026-11-04,Cloud SQL,prod-app,asia-south1,727.6,vCPU-hours,30.05
+2026-11-04,Dataflow,streaming-prod,asia-south1,319.11,vCPU-hours,17.87
+2026-11-04,Networking,prod-app,global,83.08,GiB-egress,9.97
+2026-11-05,Compute Engine,prod-app,asia-south1,1372.65,vCPU-hours,46.67
+2026-11-05,BigQuery,analytics-prod,asia-south1,3.05,TiB-scanned,19.05
+2026-11-05,Cloud Storage,data-lake,asia-south1,631.5,GiB-months,12.63
+2026-11-05,Cloud SQL,prod-app,asia-south1,715.5,vCPU-hours,29.55
+2026-11-05,Dataflow,streaming-prod,asia-south1,304.29,vCPU-hours,17.04
+2026-11-05,Networking,prod-app,global,89.5,GiB-egress,10.74
+2026-11-06,Compute Engine,prod-app,asia-south1,1341.18,vCPU-hours,45.6
+2026-11-06,BigQuery,analytics-prod,asia-south1,3.14,TiB-scanned,19.62
+2026-11-06,Cloud Storage,data-lake,asia-south1,637.0,GiB-months,12.74
+2026-11-06,Cloud SQL,prod-app,asia-south1,735.84,vCPU-hours,30.39
+2026-11-06,Dataflow,streaming-prod,asia-south1,301.07,vCPU-hours,16.86
+2026-11-06,Networking,prod-app,global,80.0,GiB-egress,9.6
+2026-11-07,Compute Engine,prod-app,asia-south1,1175.59,vCPU-hours,39.97
+2026-11-07,BigQuery,analytics-prod,asia-south1,2.89,TiB-scanned,18.08
+2026-11-07,Cloud Storage,data-lake,asia-south1,531.5,GiB-months,10.63
+2026-11-07,Cloud SQL,prod-app,asia-south1,605.81,vCPU-hours,25.02
+2026-11-07,Dataflow,streaming-prod,asia-south1,255.54,vCPU-hours,14.31
+2026-11-07,Networking,prod-app,global,73.58,GiB-egress,8.83
+2026-11-08,Compute Engine,prod-app,asia-south1,1209.41,vCPU-hours,41.12
+2026-11-08,BigQuery,analytics-prod,asia-south1,2.85,TiB-scanned,17.82
+2026-11-08,Cloud Storage,data-lake,asia-south1,555.5,GiB-months,11.11
+2026-11-08,Cloud SQL,prod-app,asia-south1,627.36,vCPU-hours,25.91
+2026-11-08,Dataflow,streaming-prod,asia-south1,255.18,vCPU-hours,14.29
+2026-11-08,Networking,prod-app,global,70.42,GiB-egress,8.45
+2026-11-09,Compute Engine,prod-app,asia-south1,1442.94,vCPU-hours,49.06
+2026-11-09,BigQuery,analytics-prod,asia-south1,3.37,TiB-scanned,21.05
+2026-11-09,Cloud Storage,data-lake,asia-south1,653.5,GiB-months,13.07
+2026-11-09,Cloud SQL,prod-app,asia-south1,685.47,vCPU-hours,28.31
+2026-11-09,Dataflow,streaming-prod,asia-south1,315.18,vCPU-hours,17.65
+2026-11-09,Networking,prod-app,global,88.67,GiB-egress,10.64
+2026-11-10,Compute Engine,prod-app,asia-south1,1326.18,vCPU-hours,45.09
+2026-11-10,BigQuery,analytics-prod,asia-south1,3.18,TiB-scanned,19.89
+2026-11-10,Cloud Storage,data-lake,asia-south1,632.0,GiB-months,12.64
+2026-11-10,Cloud SQL,prod-app,asia-south1,681.6,vCPU-hours,28.15
+2026-11-10,Dataflow,streaming-prod,asia-south1,315.0,vCPU-hours,17.64
+2026-11-10,Networking,prod-app,global,82.42,GiB-egress,9.89
+2026-11-11,Compute Engine,prod-app,asia-south1,1428.82,vCPU-hours,48.58
+2026-11-11,BigQuery,analytics-prod,asia-south1,3.18,TiB-scanned,19.87
+2026-11-11,Cloud Storage,data-lake,asia-south1,601.5,GiB-months,12.03
+2026-11-11,Cloud SQL,prod-app,asia-south1,687.41,vCPU-hours,28.39
+2026-11-11,Dataflow,streaming-prod,asia-south1,303.04,vCPU-hours,16.97
+2026-11-11,Networking,prod-app,global,87.08,GiB-egress,10.45
+2026-11-12,Compute Engine,prod-app,asia-south1,1352.06,vCPU-hours,45.97
+2026-11-12,BigQuery,analytics-prod,asia-south1,23.35,TiB-scanned,145.94
+2026-11-12,Cloud Storage,data-lake,asia-south1,611.0,GiB-months,12.22
+2026-11-12,Cloud SQL,prod-app,asia-south1,725.91,vCPU-hours,29.98
+2026-11-12,Dataflow,streaming-prod,asia-south1,298.75,vCPU-hours,16.73
+2026-11-12,Networking,prod-app,global,81.83,GiB-egress,9.82
+2026-11-13,Compute Engine,prod-app,asia-south1,1340.59,vCPU-hours,45.58
+2026-11-13,BigQuery,analytics-prod,asia-south1,3.09,TiB-scanned,19.33
+2026-11-13,Cloud Storage,data-lake,asia-south1,638.5,GiB-months,12.77
+2026-11-13,Cloud SQL,prod-app,asia-south1,706.54,vCPU-hours,29.18
+2026-11-13,Dataflow,streaming-prod,asia-south1,290.0,vCPU-hours,16.24
+2026-11-13,Networking,prod-app,global,88.92,GiB-egress,10.67
+2026-11-14,Compute Engine,prod-app,asia-south1,1224.12,vCPU-hours,41.62
+2026-11-14,BigQuery,analytics-prod,asia-south1,2.64,TiB-scanned,16.51
+2026-11-14,Cloud Storage,data-lake,asia-south1,549.5,GiB-months,10.99
+2026-11-14,Cloud SQL,prod-app,asia-south1,619.37,vCPU-hours,25.58
+2026-11-14,Dataflow,streaming-prod,asia-south1,258.75,vCPU-hours,14.49
+2026-11-14,Networking,prod-app,global,73.0,GiB-egress,8.76
+2026-11-15,Compute Engine,prod-app,asia-south1,1269.71,vCPU-hours,43.17
+2026-11-15,BigQuery,analytics-prod,asia-south1,2.76,TiB-scanned,17.26
+2026-11-15,Cloud Storage,data-lake,asia-south1,544.5,GiB-months,10.89
+2026-11-15,Cloud SQL,prod-app,asia-south1,623.0,vCPU-hours,25.73
+2026-11-15,Dataflow,streaming-prod,asia-south1,256.61,vCPU-hours,14.37
+2026-11-15,Networking,prod-app,global,71.67,GiB-egress,8.6
+2026-11-16,Compute Engine,prod-app,asia-south1,1447.65,vCPU-hours,49.22
+2026-11-16,BigQuery,analytics-prod,asia-south1,3.33,TiB-scanned,20.8
+2026-11-16,Cloud Storage,data-lake,asia-south1,622.0,GiB-months,12.44
+2026-11-16,Cloud SQL,prod-app,asia-south1,716.95,vCPU-hours,29.61
+2026-11-16,Dataflow,streaming-prod,asia-south1,294.46,vCPU-hours,16.49
+2026-11-16,Networking,prod-app,global,88.25,GiB-egress,10.59
+2026-11-17,Compute Engine,prod-app,asia-south1,1325.0,vCPU-hours,45.05
+2026-11-17,BigQuery,analytics-prod,asia-south1,3.33,TiB-scanned,20.84
+2026-11-17,Cloud Storage,data-lake,asia-south1,622.5,GiB-months,12.45
+2026-11-17,Cloud SQL,prod-app,asia-south1,692.49,vCPU-hours,28.6
+2026-11-17,Dataflow,streaming-prod,asia-south1,308.04,vCPU-hours,17.25
+2026-11-17,Networking,prod-app,global,86.25,GiB-egress,10.35
+2026-11-18,Compute Engine,prod-app,asia-south1,1337.65,vCPU-hours,45.48
+2026-11-18,BigQuery,analytics-prod,asia-south1,3.28,TiB-scanned,20.48
+2026-11-18,Cloud Storage,data-lake,asia-south1,601.5,GiB-months,12.03
+2026-11-18,Cloud SQL,prod-app,asia-south1,742.86,vCPU-hours,30.68
+2026-11-18,Dataflow,streaming-prod,asia-south1,298.75,vCPU-hours,16.73
+2026-11-18,Networking,prod-app,global,83.67,GiB-egress,10.04
+2026-11-19,Compute Engine,prod-app,asia-south1,1360.59,vCPU-hours,46.26
+2026-11-19,BigQuery,analytics-prod,asia-south1,3.11,TiB-scanned,19.41
+2026-11-19,Cloud Storage,data-lake,asia-south1,603.5,GiB-months,12.07
+2026-11-19,Cloud SQL,prod-app,asia-south1,687.89,vCPU-hours,28.41
+2026-11-19,Dataflow,streaming-prod,asia-south1,310.0,vCPU-hours,17.36
+2026-11-19,Networking,prod-app,global,89.08,GiB-egress,10.69
+2026-11-20,Compute Engine,prod-app,asia-south1,1362.65,vCPU-hours,46.33
+2026-11-20,BigQuery,analytics-prod,asia-south1,3.13,TiB-scanned,19.59
+2026-11-20,Cloud Storage,data-lake,asia-south1,630.5,GiB-months,12.61
+2026-11-20,Cloud SQL,prod-app,asia-south1,685.47,vCPU-hours,28.31
+2026-11-20,Dataflow,streaming-prod,asia-south1,302.32,vCPU-hours,16.93
+2026-11-20,Networking,prod-app,global,88.25,GiB-egress,10.59
+2026-11-21,Compute Engine,prod-app,asia-south1,1166.47,vCPU-hours,39.66
+2026-11-21,BigQuery,analytics-prod,asia-south1,2.89,TiB-scanned,18.05
+2026-11-21,Cloud Storage,data-lake,asia-south1,541.0,GiB-months,10.82
+2026-11-21,Cloud SQL,prod-app,asia-south1,585.71,vCPU-hours,24.19
+2026-11-21,Dataflow,streaming-prod,asia-south1,254.11,vCPU-hours,14.23
+2026-11-21,Networking,prod-app,global,74.33,GiB-egress,8.92
+2026-11-22,Compute Engine,prod-app,asia-south1,1152.06,vCPU-hours,39.17
+2026-11-22,BigQuery,analytics-prod,asia-south1,2.72,TiB-scanned,17.01
+2026-11-22,Cloud Storage,data-lake,asia-south1,544.0,GiB-months,10.88
+2026-11-22,Cloud SQL,prod-app,asia-south1,640.68,vCPU-hours,26.46
+2026-11-22,Dataflow,streaming-prod,asia-south1,263.21,vCPU-hours,14.74
+2026-11-22,Networking,prod-app,global,74.92,GiB-egress,8.99
+2026-08-26,Dataflow,streaming-prod,asia-south1,264.82,vCPU-hours,14.83
+2026-09-19,Compute Engine,prod-app,asia-south1,1160.88,vCPU-hours,39.47
+2026-10-14,Compute Engine,prod-app,asia-south1,1409.71,vCPU-hours,47.93
+2026-11-03,Compute Engine,prod-app,asia-south1,1386.18,vCPU-hours,47.13
+2026-11-16,Cloud Storage,data-lake,asia-south1,622.0,GiB-months,12.44
+2026-08-28,Cloud Storage,data-lake,asia-south1,605.5,GiB-months,N/A
+2026-09-27,Cloud Storage,data-lake,asia-south1,485.0,GiB-months,N/A
+2026-10-22,Cloud Storage,data-lake,asia-south1,580.0,GiB-months,N/A
+2026-11-13,Compute Engine,prod-app,asia-south1,1340.59,vCPU-hours,N/A
+2026-08-30,,prod-app,asia-south1,1067.06,vCPU-hours,36.28
+2026-10-05,,streaming-prod,asia-south1,285.89,vCPU-hours,16.01
+2026-10-30,,streaming-prod,asia-south1,296.96,vCPU-hours,16.63
